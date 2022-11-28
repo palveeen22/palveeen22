@@ -1,6 +1,6 @@
 - 👋 Hi, I’m alvin, but usually call me macaronnie, because i really like it 😁
 - 👀 I’m interested in javascript, typescript and react
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and React
 - 💞️ I’m looking to collaborate on projects using javascript and react
 - 📫 How to reach me palveeen22@gmail.com
 
