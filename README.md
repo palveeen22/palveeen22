@@ -31,7 +31,7 @@ I am a frontend developer with a specialization in React and Tailwind CSS, and I
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/palveeen22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alvinprtm22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://t.me/alvinmacaronnie" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png"/></a>
+<p align="left"> <a href="https://www.github.com/palveeen22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alvinprtm22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://t.me/alvinmacaronnie" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" width="35" height="32"/></a>
 
 <br/>
 <a href="https://www.twitter.com/jamesqquick" target="_blank" rel="noreferrer"><img
