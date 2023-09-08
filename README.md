@@ -33,11 +33,6 @@ I am a frontend developer with a specialization in React and Tailwind CSS, and I
 
 <p align="left"> <a href="https://www.github.com/palveeen22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alvinprtm22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
 
-<br/>
-<a href="https://www.twitter.com/jamesqquick" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jamesqquick?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/jamesqquick" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/jamesqquick?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 
 
