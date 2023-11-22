@@ -7,7 +7,6 @@ I am a frontend developer with a specialization in React and Tailwind CSS, and I
 
 * 🌍  I'm based in Jakarta, ID
 * 🧠  I'm learning everything JavaScript
-* 😄 Pronouns: he/him
 * ⚡ Fun fact: I'm Macaroni lover, so people call me Macaronnie 😂!
 
 
