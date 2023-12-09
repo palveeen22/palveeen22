@@ -3,7 +3,8 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 FrontEnd Developer and  Petroleum  Engginer.
 ----------------------------
-I am a frontend developer with a specialization in React and Tailwind CSS, and I am deeply committed to delivering excellent user experiences by leveraging infrastructure as code and User interface. My passion is to write high-quality, maintainable, and well-tested code that meets the highest standards of software development. I am always eager to learn new concepts and technologies, and I consistently devote time to studying and improving my skills. When I'm not coding, you can find me surfing , improving designing skills, and creating music.
+
+As a full-stack developer, I specialize in frontend development using React.js and have experience with Tailwind CSS. I focus on creating great user experiences and prioritize writing high-quality, maintainable, and thoroughly tested code. I'm always eager to learn new technologies and programming languages to enhance my skills. Outside of coding, I enjoy surfing, improving my design skills, and creating music.
 
 * 🌍  I'm based in Jakarta, ID
 * 🧠  I'm learning everything JavaScript
