@@ -1,10 +1,11 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alvin Pratama
 =====================================================================================================================================
 
-FrontEnd Developer and  Petroleum  Engginer.
+Software Developer and  Petroleum  Engginer.
 ----------------------------
 
-As a full-stack developer, I specialize in frontend development using React.js and have experience with Tailwind CSS. I focus on creating great user experiences and prioritize writing high-quality, maintainable, and thoroughly tested code. I'm always eager to learn new technologies and programming languages to enhance my skills. Outside of coding, I enjoy surfing, improving my design skills, and creating music.
+Passionate about art, surfing, and programming, I have seamlessly combined my creative inclinations with my experience as a software developer. With a strong passion for writing high-quality, maintainable, and thoroughly tested code, I consistently hold myself to the highest standards of software development. I am driven to continuously learn and adapt to new technologies and programming languages, always seeking to expand my knowledge and improve my skills.
+
 
 * 🌍  I'm based in Jakarta, ID
 * 🧠  I'm learning everything JavaScript
