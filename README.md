@@ -7,8 +7,7 @@ Software Developer and  Petroleum  Engginer.
 Passionate about art, surfing, and programming, I have seamlessly combined my creative inclinations with my experience as a software developer. With a strong passion for writing high-quality, maintainable, and thoroughly tested code, I consistently hold myself to the highest standards of software development. I am driven to continuously learn and adapt to new technologies and programming languages, always seeking to expand my knowledge and improve my skills.
 
 
-* 🌍  I'm based in Jakarta, ID
-* 🧠  I'm learning everything JavaScript
+* 🧠  I'm learning everything about Web and Mobile App Development..
 * ⚡ Fun fact: I'm Macaroni lover, so people call me Macaronnie 😂!
 
 
@@ -25,6 +24,7 @@ Passionate about art, surfing, and programming, I have seamlessly combined my cr
 <!-- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> -->
 <!-- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a> -->
 <!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
+  <!-- * 🌍  I'm based in Jakarta, ID -->
 </p>
 
 
