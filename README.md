@@ -33,7 +33,7 @@ Passionate about art, surfing, and programming, I have seamlessly combined my cr
 <p align="left"> 
   <a href="https://www.github.com/palveeen22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/alvinprtm22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
-    <a href="https://t.me//alvinmacaronnie" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/47/737/png-transparent-telegram-message-chat-logo-rounded-social-media-icon.png" width="32" height="32" /></a>  
+    <a href="https://t.me//alvinmacaronnie" target="_blank" rel="noreferrer"><img src="https://banner2.cleanpng.com/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg" width="32" height="32" /></a>  
 
 
 
