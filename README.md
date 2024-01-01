@@ -1,7 +1,7 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alvin Pratama
 =====================================================================================================================================
 
-Software Developer and  Petroleum  Engginer.
+Software Developer.
 ----------------------------
 
 Passionate about art, surfing, and programming, I have seamlessly combined my creative inclinations with my experience as a software developer. With a strong passion for writing high-quality, maintainable, and thoroughly tested code, I consistently hold myself to the highest standards of software development. I am driven to continuously learn and adapt to new technologies and programming languages, always seeking to expand my knowledge and improve my skills.
