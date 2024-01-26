@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Software Developer.
 ----------------------------
 
-Passionate about art, surfing, and programming, I have seamlessly combined my creative inclinations with my experience as a software developer. With a strong passion for writing high-quality, maintainable, and thoroughly tested code, I consistently hold myself to the highest standards of software development. I am driven to continuously learn and adapt to new technologies and programming languages, always seeking to expand my knowledge and improve my skills.
+Software Developer with expertise in Frontend and Mobile Development, certified by Hacktiv8, a leading coding bootcamp in Indonesia. Holds a Bachelor's degree in Geology and Oil and Gas from Kazan State University, Russia, earned through a fully funded Russian government scholarship. I am passionate about writing high-quality, maintainable code and committed to constant learning and skill enhancement in new technologies and programming languages.
 
 
 * 🧠  I'm learning everything about Web and Mobile App Development..
