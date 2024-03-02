@@ -1,10 +1,10 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alvin Pratama
 =====================================================================================================================================
 
-Software Developer.
+Software Engineer.
 ----------------------------
 
-Software Developer with expertise in Frontend and Mobile Development, certified by Hacktiv8, a leading coding bootcamp in Indonesia. Holds a Bachelor's degree in Geology and Oil and Gas from Kazan State University, Russia, earned through a fully funded Russian government scholarship. I am passionate about writing high-quality, maintainable code and committed to constant learning and skill enhancement in new technologies and programming languages.
+Software Engineer with expertise in Frontend and Mobile Development, certified by Hacktiv8, a leading coding bootcamp in Indonesia. Holds a Bachelor's degree in Geology and Oil and Gas from Kazan State University, Russia, earned through a fully funded Russian government scholarship. I am passionate about writing high-quality, maintainable code and committed to constant learning and skill enhancement in new technologies and programming languages.
 
 
 * 🧠  I'm learning everything about Web and Mobile App Development..
